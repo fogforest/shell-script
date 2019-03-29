@@ -1,0 +1,32 @@
+# Compiled class file
+*.class
+
+# Eclipse/idea project file
+.classpath
+.settings/
+.project
+.idea/*
+.loadpath
+*.iml
+*.ipr
+.factorypath
+
+# Log file
+*.log
+
+# Package Files #
+target/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS generated files #
+**/.DS_Store
+
+metastore_db/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
